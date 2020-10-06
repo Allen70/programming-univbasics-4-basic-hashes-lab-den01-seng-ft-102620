@@ -9,8 +9,8 @@ def my_hash
 end
 
 def pioneer (key = :name, value = "Grace Hopper")
-  pioneerkey] = value = Hash.new
-  pioneer[
+  pioneer = Hash.new
+  pioneer[key] = value
 end
 
 
