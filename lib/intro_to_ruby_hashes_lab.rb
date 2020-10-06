@@ -8,7 +8,7 @@ def my_hash
   }
 end
 
-def pioneer (key = :name, value = "Grace Hopper")
+def pioneer (:name, value = "Grace Hopper")
 
   pioneer = {
     key: value
