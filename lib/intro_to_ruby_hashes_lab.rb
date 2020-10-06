@@ -11,7 +11,7 @@ end
 def pioneer ( key = :name, value = "Grace Hopper")
 
   pioneer = {
-    :name: value
+    name: value
   }
   binding.pry
 end
