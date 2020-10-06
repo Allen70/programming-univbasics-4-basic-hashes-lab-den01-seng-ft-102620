@@ -12,6 +12,7 @@ def pioneer (key = :name, value = "Grace Hopper")
 
   pioneer = {
     key: value
+  }
 end
 
 
